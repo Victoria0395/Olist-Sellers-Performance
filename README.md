@@ -14,7 +14,7 @@ The project covers the full analytical workflow from raw data validation and sta
 **[View the interactive Tableau dashboard](https://public.tableau.com/views/Olist_sellers_dashboard/SellerPerformanceRevenue?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 
-![Tableau dashboard](media/Tableu_Sellers_performance_revenue_dashboard.jpg)
+![Tableau dashboard](media/Tableu_Sallers_performance_revenue_dashboard.jpg)
 
 The dashboard allows users to select a **base month** from the latest six complete months and compare its performance with the previous month.
 
@@ -82,7 +82,7 @@ The checks cover:
 
 ### Examples of detected issues
 
-![Quality check overview](media\quality_check.png)
+![Quality check overview](media/quality_check.png)
 
 | Table / Check | Result | Investigation / Treatment |
 |---|---|---|
@@ -222,7 +222,7 @@ A six-month trend line provides historical context.
 
 The base month can also be changed directly through the trend visualization.
 
-![KPIs overview](media\KPIs.png)
+![KPIs overview](media/KPIs.png)
 
 ---
 
@@ -240,7 +240,7 @@ The visualization includes:
 This helps identify which categories contribute to the overall movement in GMV.
 
 
-![Category_GMV overview](media\Category_GMV.png)
+![Category_GMV overview](media/Category_GMV.png)
 
 ---
 
@@ -254,7 +254,7 @@ This makes it possible to distinguish between:
 - changes concentrated among high-value sellers;
 - changes primarily driven by lower-ranked sellers.
 
-![MoM_GMV_by_rank overview](media\MoM_GMV_by_rank.png)
+![MoM_GMV_by_rank overview](media/MoM_GMV_by_rank.png)
 
 ---
 
@@ -270,7 +270,7 @@ The chart shows both seller counts and MoM changes for each lifecycle segment.
 
 This provides context for understanding whether changes in active seller count are driven by acquisition, returning sellers, or retained sellers.
 
-![Sellers_cohort overview](media\Sellers_cohort.png)
+![Sellers_cohort overview](media/Sellers_cohort.png)
 
 ---
 
@@ -299,7 +299,7 @@ The table is sorted by **MoM GMV change**, making sellers with the largest decli
 
 Inactive sellers are marked as **Churn**.
 
-![sellers_info_table overview](media\sellers_info_table.png)
+![sellers_info_table overview](media/sellers_info_table.png)
 
 ---
 
