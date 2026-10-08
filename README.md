@@ -14,7 +14,7 @@ The project covers the full analytical workflow from raw data validation and sta
 **[View the interactive Tableau dashboard](https://public.tableau.com/views/Olist_sellers_dashboard/SellerPerformanceRevenue?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 
-![Dashboard overview](media\Tableu_Sallers_performance_revenue_dashboard.jpg)
+![Tableau dashboard](media/Tableu_Sellers_performance_revenue_dashboard.jpg)
 
 The dashboard allows users to select a **base month** from the latest six complete months and compare its performance with the previous month.
 
